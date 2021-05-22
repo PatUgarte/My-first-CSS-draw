@@ -18,7 +18,7 @@
 }
 
 body {
-    background-color: var(--background);
+    background: linear-gradient(var(--background) -25%, indigo 125%);
     display: flex;
     flex-direction: column;
     align-items: center;
